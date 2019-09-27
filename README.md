@@ -1,4 +1,6 @@
 # hello-world
-Beginning repository
-//I'm just
-// I'm just sitting here
+
+
+I'm trying to code better, get used to things better
+
+I just woke up from a very long impromtu nap.
